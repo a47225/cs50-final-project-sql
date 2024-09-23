@@ -1,0 +1,28 @@
+Atributos:
+
+PEOPLE(niss, locality, street, number, zip code, first_name, last_name, bday, id)
+PK: id
+
+DRIVER(people_id, drivers_license, cellphone,id)
+PK:id
+FK:{people_id} from PEOPLE.id
+
+CLIENTS(people_id, trip_id, classification)
+FK:{people_id} from PEOPLE.id
+
+VEHICLES(owner_id, plate, seats, brand, number_of_trips, year, model, price_multiplier, description, id)
+PK:id
+FK:{owner_id} from PEOPLE.id
+
+TRIP(id, date, start time, end_time, final_price, expected_price, gps_start, gps_end)
+PK:id
+
+ABLE(driver_id, car_id, date, time_start, time_end, gps)
+FK:{driver_id} from DRIVER.id
+FK:{car_id} from VEHICLES.id
+
+
+
+
+
+
