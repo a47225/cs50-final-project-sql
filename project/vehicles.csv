@@ -1,0 +1,5 @@
+plate,seats,brand,model,year,price_multiplier,description,owner_id
+00AA00,5,BMW,520d,2020,1.7,,2
+00AA01,65,MERCEDES,TOURISMO L,2023,1.2,,2
+00AA02,9,MITSUBISHI,L400,2021,1.4,,2
+00AA03,7,FORD,S-MAX,2021,1.5,,2

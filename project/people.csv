@@ -1,0 +1,9 @@
+niss,locality,street,number,zip_code,first_name,last_name,bday
+11111111,Leiria,rua da esquina,1,2500-100,Diogo,Monteiro,01-01-2000
+22222222,Lisboa,rua principal,2,1000-100,Inês,Silva,01-01-2000
+33333333,Lisboa,rua secundaria,3,1000-101,Alberto,Silvestre,01-01-2000
+44444444,Beja,rua estrela,1,7800-100,Bruna,Alves,01-01-2000
+55555555,Porto,rua do conde,1,4000-100,Francisco,Santos,01-01-2000
+66666666,Leiria,rua da praça,3,2500-101,Pedro,Monteiro,01-01-2000
+77777777,Lisboa,rua da praceta,4,1000-102,Carlota,Lacerda,01-01-2000
+88888888,Aveiro,rua da pracinha,5,3800-100,Eusébio,Noronha,01-01-2000
